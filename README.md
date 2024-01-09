@@ -11,8 +11,8 @@ https://qiita.com/Bjp8kHYYPFq8MrI
 
 | 種別 | 使用期間 |
 | :----: | ---- |
-| 言語 | Ruby（1年半~) , JavaScript(1年~) , TypeScript(半年~) , Python（半年~） |
-| FW | Rails（1年半~) , React(半年~) , Django（半年~)|
+| 言語 | Ruby , TypeScript , Python |
+| FW | Rails , React , Django|
 | DB | MySQL |
 | OS | Linux |
 | Cloud (AWS) | EC2, RDS |
